@@ -1,0 +1,11 @@
+span.plugin_picture a img {
+  width:250px;
+  margin-bottom:10px;
+}
+a span.plugin_picture img {
+  width:250px;
+  margin-bottom:10px;
+}
+ul {
+  list-style: :none;
+}

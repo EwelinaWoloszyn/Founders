@@ -1,10 +1,15 @@
 span.plugin_picture a img {
   width:250px;
-  margin-bottom:10px;
+  margin-bottom:20px;
+  margin-top: 20px;
 }
 a span.plugin_picture img {
   width:250px;
-  margin-bottom:10px;
+  margin-bottom:20px;
+  margin-top: 20px;
+}
+ul span.plugin_picture{
+  list-style: none;
 }
 ul {
   list-style: :none;

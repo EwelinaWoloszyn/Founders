@@ -1,1 +1,1 @@
-# Founders
+# Funders
